@@ -1,0 +1,7 @@
+/java/out/
+/java/target/
+/java/.idea/
+/java/META-INF/
+/java/*.iml
+/results
+/data
